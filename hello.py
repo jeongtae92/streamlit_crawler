@@ -1,1 +1,6 @@
-print('hello word')
+import streamlit as st
+
+st.title('Hello Wolrd')
+
+
+
